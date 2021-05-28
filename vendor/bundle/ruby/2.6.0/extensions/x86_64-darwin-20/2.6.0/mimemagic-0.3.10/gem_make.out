@@ -1,0 +1,4 @@
+current directory: /Users/kim/Desktop/task_app/vendor/bundle/ruby/2.6.0/gems/mimemagic-0.3.10/ext/mimemagic
+/Users/kim/.rbenv/versions/2.6.3/bin/ruby -I/Users/kim/.rbenv/versions/2.6.3/lib/ruby/site_ruby/2.6.0 -rrubygems /Users/kim/Desktop/task_app/vendor/bundle/ruby/2.6.0/gems/rake-13.0.3/exe/rake RUBYARCHDIR\=/Users/kim/Desktop/task_app/vendor/bundle/ruby/2.6.0/extensions/x86_64-darwin-20/2.6.0/mimemagic-0.3.10 RUBYLIBDIR\=/Users/kim/Desktop/task_app/vendor/bundle/ruby/2.6.0/extensions/x86_64-darwin-20/2.6.0/mimemagic-0.3.10
+Ignoring bootsnap-1.7.5 because its extensions are not built. Try: gem pristine bootsnap --version 1.7.5
+mkdir -p /Users/kim/Desktop/task_app/vendor/bundle/ruby/2.6.0/extensions/x86_64-darwin-20/2.6.0/mimemagic-0.3.10/mimemagic
